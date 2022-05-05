@@ -2,7 +2,13 @@ import Foundation
 
 struct News{
     var Politics: Politics
+}
+
+
+struct NewsSport {
     var Sport: Sport
-    var famousPeople: String
-    var weatherNews: weatherNews
+}
+
+struct NewsWeather {
+    var Weather: weatherNews
 }

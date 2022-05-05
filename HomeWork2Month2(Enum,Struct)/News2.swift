@@ -10,15 +10,15 @@ enum Politics: String{
 enum Sport: String {
     case football = "game between 2 teams"
     case tennis = "singles or doubles game"
-    case bassketbal = "popular game in USA"
+    case bassketball = "popular game in USA"
     case swimming = "butterfly, freestyle, backstroke"
 }
 
 
 enum weatherNews: String  {
-    case bishkek = "20-25"
-    case osh = "26-28"
-    case issykkul = "21-24"
-    case naryn = "18-20"
-    case talas = "19-22"
+    case bishkek = "20º-25º"
+    case osh = "26º-28º"
+    case issykkul = "21º-24º"
+    case naryn = "18º-20º"
+    case talas = "19º-22º"
 }
